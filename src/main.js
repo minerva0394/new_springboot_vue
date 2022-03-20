@@ -12,5 +12,6 @@ Vue.use(ElementUI, {size: "small"});
 
 new Vue({
     router,
+    store,
     render: h => h(App)
 }).$mount('#app')
