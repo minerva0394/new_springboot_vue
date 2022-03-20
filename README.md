@@ -1,9 +1,4 @@
 #编辑记录
-## update 2022-03-22
-2022-0-22 02：29
-VUE实现路由
-引入vuex时，需要引入对应版本
-npm i vuex@3.6.2 -S
 ## update 2022-03-20
 2022-03-20 14:10
 基于mybatis-plus 和 swaggerUI实现后台分页功能<br>
