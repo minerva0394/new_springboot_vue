@@ -3,7 +3,7 @@ import router from "@/router";
 import {serverIp} from "../../public/config";
 
 const request = axios.create({
-    baseURL: `http://127.0.0.1:9090`,
+    baseURL: `http://127.0.0.1:9091`,
     timeout: 30000
 })
 
